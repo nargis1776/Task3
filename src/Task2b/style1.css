@@ -1,0 +1,24 @@
+.container{
+/* padding:0 auto; */
+/* margin: 0 auto; */
+margin-top: 50px;
+width: 600px;
+height: 300px;
+border: 2px solid grey;
+justify-content: center;
+align-items: center;
+
+}
+.row {
+    gap: 36px;
+    margin-left: 73px;
+}
+
+.select {
+    margin-left: 0;
+}
+
+.row.row2 {
+    gap: 21px;
+}
+

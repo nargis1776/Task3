@@ -1,0 +1,22 @@
+.containerDiv{
+margin: 50px auto;
+padding:0 auto;
+/* border: 2px solid black; */
+width: 800px;
+}
+
+
+.accordian{
+    display: flex;
+}
+.addSection{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+
+}
+
+label{
+    display: block;
+    margin-bottom: 0.5rem;
+} 
